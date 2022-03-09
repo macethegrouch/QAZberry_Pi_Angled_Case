@@ -16,7 +16,7 @@ This is a  angled screen case remix of the original case by whydobearsxplod (htt
 
 (1) Weight (optional but recommended)
 
-Some Wire and dupont connectors, make sure the wire you use from the amp ripper 5v to the raspberry pi header can carry 3A, I used 20awg solid core but this is a good reference (https://www.engineeringtoolbox.com/wire-gauges-d_419.html) make sure you check the core number if using stranded.
+Some wire and dupont connectors, make sure the wire you use from the amp ripper 5v to the raspberry pi header can carry 3A, I used 20awg solid core but this is a good reference (https://www.engineeringtoolbox.com/wire-gauges-d_419.html) make sure you check the core number if using stranded.
 
 Files have been tested my myself on my printer, results on your printer may vary and need adjustment. The print files require supports.
 
