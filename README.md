@@ -1,6 +1,6 @@
 # QAZberry_Pi_Angled_Case
 
-This is a  angled screen case remix of the original case by whydobearsxplod for the QAZberry Pi. Additional hardware requirements beyond the initial material list are as follows
+This is a  angled screen case remix of the original case by whydobearsxplod (https://github.com/gleorepo) for the QAZberry Pi. Additional hardware requirements beyond the initial material list are as follows
 
 (1) power switch https://www.amazon.com/uxcell-SS12F32-G7-Position-Switch-Solder/dp/B007QAJWYW/ref=sr_1_20?
 
