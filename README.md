@@ -21,3 +21,5 @@ Some wire and dupont connectors, make sure the wire you use from the amp ripper 
 Files have been tested my myself on my printer, results on your printer may vary and need adjustment. The print files require supports.
 
 A plate and weight dxf have been included for these to be sourced from a vendor of your choosing.
+
+![QAZberry Pi Angled Case](https://user-images.githubusercontent.com/71409907/157470998-f4b2ede0-07fc-4233-bf34-caa4526652c2.jpg)
