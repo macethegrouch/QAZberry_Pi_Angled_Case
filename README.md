@@ -4,7 +4,7 @@ This is a  angled screen case remix of the original case by whydobearsxplod (htt
 
 (1) power switch https://www.amazon.com/uxcell-SS12F32-G7-Position-Switch-Solder/dp/B007QAJWYW/ref=sr_1_20?
 
-(1) m2.5x20mm, (1) m2.5x12mm, (4) m2.5x4mm screws https://www.amazon.com/gp/product/B082XPZV1V/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+(1) m2.5x24mm, (1) m2.5x16mm, (4) m2.5x4mm screws https://www.amazon.com/gp/product/B082XPZV1V/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 (4) m2.5 inserts https://www.amazon.com/gp/product/B07NBQ6NHL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
