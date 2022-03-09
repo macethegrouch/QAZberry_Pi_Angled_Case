@@ -6,11 +6,7 @@ This is a  angled screen case remix of the original case by whydobearsxplod for 
 
 m2.5 screws https://www.amazon.com/gp/product/B082XPZV1V/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
   
-    (1) 20mm
-  
-    (1) 12mm
-  
-    (4) 4mm
+   (1) 20mm, (1) 12mm, (4) 4mm
 
 (4) m2.5 inserts https://www.amazon.com/gp/product/B07NBQ6NHL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
