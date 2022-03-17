@@ -22,4 +22,8 @@ Files have been tested my myself on my printer, results on your printer may vary
 
 A plate and weight dxf have been included for these to be sourced from a vendor of your choosing.
 
-![QAZberry Pi Angled Case](https://user-images.githubusercontent.com/71409907/157470998-f4b2ede0-07fc-4233-bf34-caa4526652c2.jpg)
+![PXL_20220317_144836178](https://user-images.githubusercontent.com/71409907/158840217-a5dca471-a92f-4759-9eb6-1958f68418d2.jpg)
+
+![PXL_20220317_152415495 MP](https://user-images.githubusercontent.com/71409907/158840272-b894b29c-d400-4fd8-8f56-57ba67db9c38.jpg)
+
+![PXL_20220317_152442433](https://user-images.githubusercontent.com/71409907/158840300-0455686b-4118-4a27-aa8d-a58db74304b1.jpg)
